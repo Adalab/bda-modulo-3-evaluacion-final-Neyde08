@@ -3,6 +3,12 @@
 ## Descripción
 Este proyecto corresponde al análisis de datos, donde se aplican técnicas de exploración, limpieza, visualización y pruebas estadísticas para extraer insights clave a partir de un conjunto de datos de clientes y su historial de vuelos.
 
+## Instrucciones de Ejecución
+- Instalar dependencias necesarias:
+   ```bash
+   pip install pandas matplotlib seaborn 
+   ```
+
 ## Archivos Incluidos
 - `Customer Flight Activity.csv`: Contiene información sobre las reservas de vuelos de los clientes.
 - `Customer Loyalty History.csv`: Incluye el historial de fidelización de clientes.
@@ -30,14 +36,3 @@ El objetivo es analizar los datos de los clientes, identificar patrones de compo
 
 6. **Proporción de Tipos de Tarjetas de Fidelidad**
    - Contar cuántos clientes tienen cada tipo de tarjeta de fidelidad y graficarlo.
-
-7. **Prueba de Hipótesis**
-   - Comparar la tasa de desempleo entre Europa y América.
-   - Evaluar si la esperanza de vida difiere entre América y Asia.
-   - Comparar el precio de la gasolina en países con PIB alto vs. PIB bajo.
-
-## Instrucciones de Ejecución
-1. Instalar dependencias necesarias:
-   ```bash
-   pip install pandas matplotlib seaborn 
-   ```

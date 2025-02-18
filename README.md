@@ -39,5 +39,5 @@ El objetivo es analizar los datos de los clientes, identificar patrones de compo
 ## Instrucciones de Ejecución
 1. Instalar dependencias necesarias:
    ```bash
-   pip install pandas matplotlib seaborn scipy
+   pip install pandas matplotlib seaborn 
    ```
